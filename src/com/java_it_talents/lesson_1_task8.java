@@ -1,8 +1,7 @@
 package com.java_it_talents;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
-import java.util.SortedMap;
+
 
 public class lesson_1_task8 {
   public static void main(String[] args) {

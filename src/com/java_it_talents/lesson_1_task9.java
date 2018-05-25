@@ -13,15 +13,13 @@ public class lesson_1_task9 {
     //2. Check if the last digit of the product of the two numbers is even and print the result
     if ((inputNum1 < 10 || inputNum1 > 99) || (inputNum2 < 10 || inputNum2 > 99)) {
       System.out.println("One of the numbers is out of bounds!!!");
-    }
-    else {
+    } else {
       int product = inputNum1 * inputNum2;
       int lastdigit = product % 10;
       System.out.println(lastdigit);
-      if (lastdigit % 2 == 0){
+      if (lastdigit % 2 == 0) {
         System.out.println(product + ", " + lastdigit + " is even");
-      }
-      else {
+      } else {
         System.out.println(product + ", " + lastdigit + " is odd");
       }
 
