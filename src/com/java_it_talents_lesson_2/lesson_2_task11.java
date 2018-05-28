@@ -1,8 +1,8 @@
-package com.java_it_talents;
+package com.java_it_talents_lesson_2;
 
 import java.util.Scanner;
 
-public class lesson_1_task11 {
+public class lesson_2_task11 {
   public static void main(String[] args) {
     //1. Read volume number from console
     Scanner sc = new Scanner(System.in);
