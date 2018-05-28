@@ -2,24 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351e5a7e-2ef1-44d9-b2a7-6b272c798b3f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_3/lesson_3_task1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_3/lesson_3_task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents_lesson_2/lesson_2_task8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_it_talents/com/java_it_talents/lesson_1_task9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java_it_talents/lesson_1_task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java_it_talents_lesson_2/lesson_2_task9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,14 +120,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="java_it_talents_lesson_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_it_talents_tasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_it_talents_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java_it_talents_lesson_2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_2_task8.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -275,12 +272,12 @@
       <updated>1527233961624</updated>
       <workItem from="1527233962974" duration="107000" />
       <workItem from="1527236451298" duration="17121000" />
-      <workItem from="1527508685529" duration="1874000" />
+      <workItem from="1527508685529" duration="2195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19102000" />
+    <option name="totallyTimeSpent" value="19423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -293,10 +290,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24973433" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24973433" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19739583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19739583" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
