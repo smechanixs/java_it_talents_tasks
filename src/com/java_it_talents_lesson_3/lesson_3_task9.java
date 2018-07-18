@@ -1,7 +1,5 @@
 package com.java_it_talents_lesson_3;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.Scanner;
 
 public class lesson_3_task9 {
@@ -15,15 +13,36 @@ public class lesson_3_task9 {
         System.out.println("Please enter 'A': ");
         int b = sc.nextInt();
         int sum = 0;
+        int c = 0;
+
+        if (a > b){
+            c = a;
+            a = b;
+            b = c;
+        }
         //        2. Print all numbers between A and B on step 2
         for (int i = a; i <= b; i++) {
-            if ((i * i) % 3 == 0) {
-                System.out.print("Skip 3" + ", ");
+            if (i % 3 == 0) {
+                System.out.print("Skip " + i);
+                if (i < b) {
+                    System.out.print(" , ");
+                }
+            } else {
+                sum += i * i;
+                if (sum > 200) {
+                    System.out.print(i * i);
+                    break;
+                }
+                System.out.print(i * i);
+                if (i < b) {
+                    System.out.print(" , ");
+                }
             }
-            System.out.print(i * i + ", ");
         }
     }
-
 }
-
-
+//Задача 9: Да се прочетат 2 числа от клавиатурата А и В.
+//        Да се изведат всички числа от А до В на степен 2(разделени с
+//        запетая).Ако някое число е кратно на 3, да се изведе съобщение че
+//        числото се пропуска „skip 3“.Ако сумата от всички изведени числа (без
+//        пропуснатите) стане по-голяма от 200, да се прекрати извеждането.
