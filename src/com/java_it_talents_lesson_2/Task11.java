@@ -2,7 +2,7 @@ package com.java_it_talents_lesson_2;
 
 import java.util.Scanner;
 
-public class lesson_2_task11 {
+public class Task11 {
   public static void main(String[] args) {
     //1. Read volume number from console
     Scanner sc = new Scanner(System.in);

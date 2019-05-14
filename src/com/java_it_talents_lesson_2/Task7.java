@@ -2,7 +2,7 @@ package com.java_it_talents_lesson_2;
 
 import java.util.Scanner;
 
-public class lesson_2_task7 {
+public class Task7 {
     public static void main(String[] args) {
 
         System.out.println("Please type hour: ");

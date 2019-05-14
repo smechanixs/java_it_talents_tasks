@@ -3,7 +3,7 @@ package com.java_it_talents_lesson_2;
 import java.util.Scanner;
 
 
-public class lesson_2_task8 {
+public class Task8 {
   public static void main(String[] args) {
 
     //1.Read inputNum from input//
